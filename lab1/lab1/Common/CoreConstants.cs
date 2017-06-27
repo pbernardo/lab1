@@ -17,4 +17,9 @@ namespace lab1.Common
         public const double StartingFuel = 1000.0;
         public const double StartingThrust = 0.0;
     }
+    public static class MobileCenterConstants
+    {
+        public const string AndroidAppId = "18945dbe-5a46-40fa-a2cb-8812f1bf2575";
+        public const string iOSAppId = "";
+    }
 }
